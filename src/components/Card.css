@@ -1,0 +1,29 @@
+.card {
+    background-color: #ffcc80;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .card h2 {
+    font-size: 20px;
+    margin: 0;
+    color: #333;
+  }
+  
+  .card h4 {
+    font-size: 16px;
+    margin: 10px 0;
+    color: #555;
+  }
+  
+  .card p {
+    font-size: 14px;
+    margin: 0;
+    color: #777;
+  }
+  
